@@ -1,4 +1,4 @@
 first-repository
 ================
 
-my first repository on github
+my first repository on github.
